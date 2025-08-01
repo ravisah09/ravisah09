@@ -1,6 +1,6 @@
 <!-- Typing Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravi;Full+Stack+Developer+%7C+Tech+Enthusiast;PHP+%7C+React+%7C+JavaScript+Expert;Welcome+to+my+GitHub+Profile!+%F0%9F%92%BB" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravi;Full+Stack+Developer;Web+Engineer+%7C+Code+Artist;Crafting+beautiful+and+scalable+apps;Welcome+to+my+world+of+development!+%F0%9F%8E%AC" alt="Typing animation" />
 </h1>
 
 <p align="center">
@@ -11,16 +11,18 @@
 
 ## 💫 About Me
 
-- 👨‍💻 Full Stack Developer passionate about clean code and innovative solutions  
-- 💻 Skilled in PHP, React, JavaScript, and modern web technologies  
-- ⚙️ Focused on building robust and scalable web applications  
-- 🚀 Always learning new frameworks and tech stacks  
+- 👨‍💻 I'm a Full Stack Developer who turns coffee ☕ into scalable code  
+- 🧠 I specialize in building dynamic, user-first web experiences  
+- 🛠️ Tech polyglot: from classic PHP to modern React ecosystems  
+- 🌐 I believe great software = great UI + secure, efficient backend  
+- 🎯 Currently diving deeper into microservices, Docker & CI/CD  
+- 🧩 I treat bugs as puzzles — and enjoy solving them more than Sudoku 😄  
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ravi11marchsah@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi11marchsah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi909/)
 
 ---
@@ -44,27 +46,18 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔧 Portfolio Website  
-- 📦 REST APIs using Node.js & Express  
-- 🛒 E-Commerce Web App with React + PHP  
-- 🧠 Admin Panels & Dashboards  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi11march&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravisah09&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ravi11march&theme=dracula&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=ravisah09&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi11march&layout=compact&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisah09&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ## 🧭 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=ravi11march&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ravisah09&icon=5&color=6)](https://visitcount.itsvg.in)
