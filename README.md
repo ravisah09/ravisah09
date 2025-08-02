@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI1bGJzYml4Y3E5MHlhZ3EzaDRiZHA0N2gwOXhhN2E3N3BvY2xpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyxa1g6A6FIw9HDE5b/giphy.gif)" width="280" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI1bGJzYml4Y3E5MHlhZ3EzaDRiZHA0N2gwOXhhN2E3N3BvY2xpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyxa1g6A6FIw9HDE5b/giphy.gif" width="280" />
 </p>
 
 ---
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
